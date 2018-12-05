@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-aws-s3",
+  "version": "0.0.1",
+  "description": "Cordova plugin that allows you to upload files to S3 buckets using AWS SDK..",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "android",
+    "ios",
+    "ionic",
+    "aws",
+    "s3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradleyberger/cordova-plugin-aws-s3"
+  },
+  "author": {
+    "name": "Marat Strelets",
+    "email": "unknown@gmail.com",
+    "url": "example.com"
+  },
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/bradleyberger/cordova-plugin-aws-s3",
+  "dependencies": {
+    "cordova": "*"
+  },
+  "devDependencies": {}
+}
